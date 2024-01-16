@@ -4,7 +4,7 @@ Buenas
 
 Quiero que os apunteis todos en este fichero 
 
-NOMBRE Y APELLIDO Y VUESTRO GIT
+Joel Esteban Navas FreshJoowee
 
 
 UN SALUDO 
