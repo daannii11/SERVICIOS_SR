@@ -16,6 +16,7 @@ Miguel Piedrabuena VUESTRO GIT miguelpg99
 NOMBRE: MOHAMED EZZAROILI HERRADI GIT: Picasso 2.0
 Mario Díaz GIT
 JOSE ALBERTO MIGUEL CASTILLO (josealbertoSMR)
+Daniel Garcia daannii1
 
 
 UN SALUDO 
